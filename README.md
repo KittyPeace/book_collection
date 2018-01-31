@@ -16,12 +16,9 @@ Steemit articles related to this book:
 ## Mathematics
 - [A Gentle Introduction to the Art of Mathematics](https://github.com/valjen/book_collection/blob/master/Mathematics/A%20Gentle%20Introduction%20to%20the%20Art%20of%20Mathematics.pdf): *Joe Fields*
 > GIAM (a Gentle Introduction to the Art of Mathematics) is a free, open-source textbook -- the current version is 3.1. GIAM covers several topics in the foundations of mathematics (logic, sets, relations, functions and cardinality) and introduces the reader to many techniques of mathematical proof (direct, indirect, contradiction, contrapositive, mathematical induction, combinatorial proofs and magic).
-<<<<<<< HEAD
 suggested by [@sinbad989](https://steemit.com/@sinbad989)
-=======
 
 suggested by [@sinbad989]((https://steemit.com/@sinbad989))
->>>>>>> 65a1abc276712479cdb5791dde031953a4c504d9
 Steemit articles related to this book:
 1. [A Gentle Introduction to Mathematics - Basic sets](https://steemit.com/steemstem/@sinbad989/a-gentle-introduction-to-mathematics-basic-sets)
 2. [A Gentle Introduction To Mathematics - Prime Numbers](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-prime-numbers)
