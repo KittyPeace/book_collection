@@ -9,4 +9,7 @@ Collection of ebooks on various topics 📚
 suggested by @lemouth
 
 2. Mathematics
+- A Gentle Introduction to the Art of Mathematics: *Joe Fields*
+> GIAM (a Gentle Introduction to the Art of Mathematics) is a free, open-source textbook -- the current version is 3.1. GIAM covers several topics in the foundations of mathematics (logic, sets, relations, functions and cardinality) and introduces the reader to many techniques of mathematical proof (direct, indirect, contradiction, contrapositive, mathematical induction, combinatorial proofs and magic).
+
 3. Fiction
