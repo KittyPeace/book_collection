@@ -21,8 +21,9 @@ Steemit articles related to this book:
 *suggested by [@sinbad989](https://steemit.com/@sinbad989)*
 
 Steemit articles related to this book:
-1. [A Gentle Introduction to Mathematics - Basic sets](https://steemit.com/steemstem/@sinbad989/a-gentle-introduction-to-mathematics-basic-sets)
-2. [A Gentle Introduction To Mathematics - Prime Numbers](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-prime-numbers)
+1. Chapter 1: Introduction 
+- [A Gentle Introduction to Mathematics - Basic sets](https://steemit.com/steemstem/@sinbad989/a-gentle-introduction-to-mathematics-basic-sets)
+- [A Gentle Introduction To Mathematics - Prime Numbers](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-prime-numbers)
 
 
 ## Fiction
