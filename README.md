@@ -27,5 +27,14 @@ Steemit articles related to this book:
 - [A Gentle Introduction To Mathematics - More Scary Notations]()
 - [A Gentle Introduction To Mathematics - Elementary Number Theory](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-elementary-number-theory)
 - [A Gentle Introduction To Mathematics - Algorithms]()
+2. Chapter 2: Logic and Quantifiers
+- Logic 
+    - Predicates and Logical Connectives
+    - Implications
+    - Logical Equivalence
+    - Two-column Proof
+- Quantified Statements
+- Deductive Reasoning and argument forms
+- Validity of arguments and common errors
 
 ## Fiction
