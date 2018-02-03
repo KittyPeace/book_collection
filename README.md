@@ -36,5 +36,12 @@ Steemit articles related to this book:
 - Quantified Statements
 - Deductive Reasoning and argument forms
 - Validity of arguments and common errors
+3. Chapter 3: 
 
+- [Mathematical Methods For Physicists - A Comprehensive Guide (7th Edition)]()
+>  Mathematical Methods for Physicists continues to provide all the mathematical methods that aspiring scientists and engineers are likely to encounter as students and beginning researchers. This bestselling text provides mathematical relations and their proofs essential to the study of physics and related fields. While retaining the key features of the 6th edition, the new edition provides a more careful balance of explanation, theory, and examples. Taking a problem-solving-skills approach to incorporating theorems with applications, the book's improved focus will help students succeed throughout their academic careers and well into their professions. Some notable enhancements include more refined and focused content in important topics, improved organization, updated notations, extensive explanations and intuitive exercise sets, a wider range of problem solutions, improvement in the placement, and a wider range of difficulty of exercises.
+
+ 1. Green's Function
+ 2. Group Theory
+ 3. 
 ## Fiction
