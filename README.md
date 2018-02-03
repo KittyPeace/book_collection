@@ -26,7 +26,7 @@ Steemit articles related to this book:
 - [A Gentle Introduction To Mathematics - Prime Numbers](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-prime-numbers)
 - [A Gentle Introduction To Mathematics - More Scary Notations]()
 - [A Gentle Introduction To Mathematics - Elementary Number Theory](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-elementary-number-theory)
-- [A Gentle Introduction To Mathematics - Algorithms]()
+- [A Gentle Introduction To Mathematics - Algorithms](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-the-art-of-mathematics-algorithms)
 2. Chapter 2: Logic and Quantifiers
 - Logic 
     - Predicates and Logical Connectives
