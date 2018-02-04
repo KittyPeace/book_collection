@@ -21,14 +21,14 @@ Steemit articles related to this book:
 *suggested by [@sinbad989](https://steemit.com/@sinbad989)*
 
 Steemit articles related to this book:
-1. *Chapter 1: Introduction* 
+1. **Chapter 1: Introduction** 
     - [A Gentle Introduction to Mathematics - Basic sets](https://steemit.com/steemstem/@sinbad989/a-gentle-introduction-to-mathematics-basic-sets)
     - [A Gentle Introduction To Mathematics - Prime Numbers](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-prime-numbers)
     - [A Gentle Introduction To Mathematics - More Scary Notations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-more-scary-notation)
     - [A Gentle Introduction To Mathematics - Elementary Number Theory](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-elementary-number-theory)
     - [A Gentle Introduction To Mathematics - Algorithms](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-the-art-of-mathematics-algorithms)
     - [A Gentle Introduction To Mathematics - Relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-relations)
-2. *Chapter 2: Logic and Quantifiers*
+2. **Chapter 2: Logic and Quantifiers**
     - [A Gentle Introduction To Mathematics - Predicates and Logical Connectives]()
     - [A Gentle Introduction To Mathematics - Implications]()
     - [A Gentle Introduction To Mathematics - Logical Equivalence]()
@@ -36,14 +36,14 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Quantified Statements]()
     - [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms]()
     - [A Gentle Introduction To Mathematics - Validity of Arguments and Common errors]()
-3. *Chapter 3: Proof Techniques I*
+3. **Chapter 3: Proof Techniques I**
     - Direct proofs of universal statements
     - More direct proofs
     - Contradiction and Contraposition
     - Disproofs of universal statements
     - By cases and by exhaustion
     - Existential statements
-4. *Chapter 4: Sets*
+4. **Chapter 4: Sets**
     - Basic Notions of Set Theory
     - Containment
     - Set Operations
