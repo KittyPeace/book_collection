@@ -24,24 +24,35 @@ Steemit articles related to this book:
 1. Chapter 1: Introduction 
 - [A Gentle Introduction to Mathematics - Basic sets](https://steemit.com/steemstem/@sinbad989/a-gentle-introduction-to-mathematics-basic-sets)
 - [A Gentle Introduction To Mathematics - Prime Numbers](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-prime-numbers)
-- [A Gentle Introduction To Mathematics - More Scary Notations]()
+- [A Gentle Introduction To Mathematics - More Scary Notations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-more-scary-notation)
 - [A Gentle Introduction To Mathematics - Elementary Number Theory](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-elementary-number-theory)
 - [A Gentle Introduction To Mathematics - Algorithms](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-the-art-of-mathematics-algorithms)
+- [A Gentle Introduction To Mathematics - Relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-relations)
 2. Chapter 2: Logic and Quantifiers
-- Logic 
-    - Predicates and Logical Connectives
-    - Implications
-    - Logical Equivalence
-    - Two-column Proof
-- Quantified Statements
-- Deductive Reasoning and argument forms
-- Validity of arguments and common errors
-3. Chapter 3: 
+- [A Gentle Introduction To Mathematics - Predicates and Logical Connectives]()
+- [A Gentle Introduction To Mathematics - Implications]()
+- [A Gentle Introduction To Mathematics - Logical Equivalence]()
+- [A Gentle Introduction To Mathematics - Two-column Proof]()
+- [A Gentle Introduction To Mathematics Quantified Statements]()
+- [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms]()
+- [A Gentle Introduction To Mathematics - Validity of Arguments and Common errors]()
+3. Chapter 3: Proof Techniques I
+- Direct proofs of universal statements
+- More direct proofs
+- Contradiction and Contraposition
+- Disproofs of universal statements
+- By cases and by exhaustion
+- Existential statements
+4. Chapter 4: Sets
+- Basic Notions of Set Theory
+- Containment
+- Set Operations
+- Venn Diagram
+- Russel's Paradox
 
 - [Mathematical Methods For Physicists - A Comprehensive Guide (7th Edition)]()
 >  Mathematical Methods for Physicists continues to provide all the mathematical methods that aspiring scientists and engineers are likely to encounter as students and beginning researchers. This bestselling text provides mathematical relations and their proofs essential to the study of physics and related fields. While retaining the key features of the 6th edition, the new edition provides a more careful balance of explanation, theory, and examples. Taking a problem-solving-skills approach to incorporating theorems with applications, the book's improved focus will help students succeed throughout their academic careers and well into their professions. Some notable enhancements include more refined and focused content in important topics, improved organization, updated notations, extensive explanations and intuitive exercise sets, a wider range of problem solutions, improvement in the placement, and a wider range of difficulty of exercises.
 
- 1. Green's Function
- 2. Group Theory
- 3. 
+ 1. [Mathematical Methods For Physicists - Green's Function]()
+ 2. [Mathematical Methods For Physicists - Group Theory]()
 ## Fiction
