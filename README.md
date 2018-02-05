@@ -6,7 +6,7 @@ Collection of ebooks on various topics 📚
 ### Book Categories:
 
 ## Physics
-- [Physics of Condensed Matter](ftp://doc.nit.ac.ir/cee/m.gholipour/Nanoelectronics/Reading/Prasanta%20Kumar%20Misra-Physics%20of%20Condensed%20Matter-Elsevier_Academic%20Press%20c%20(2011).pdf): Prasanta K.Misra
+- [Physics of Condensed Matter](https://github.com/valjen/book_collection/tree/master/Physics/Condensed%20Matter%20Physics): Prasanta K.Misra
 > Physics of Condensed Matter is designed for a two-semester graduate course on condensed matter physics for students in physics and materials science. While the book offers fundamental ideas and topic areas of condensed matter physics, it also includes many recent topics of interest on which graduate students may choose to do further research. 
 
 1. Basic Properties of Crystals; 
