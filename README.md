@@ -53,6 +53,29 @@ Steemit articles related to this book:
 - [Mathematical Methods For Physicists - A Comprehensive Guide (7th Edition)]()
 >  Mathematical Methods for Physicists continues to provide all the mathematical methods that aspiring scientists and engineers are likely to encounter as students and beginning researchers. This bestselling text provides mathematical relations and their proofs essential to the study of physics and related fields. While retaining the key features of the 6th edition, the new edition provides a more careful balance of explanation, theory, and examples. Taking a problem-solving-skills approach to incorporating theorems with applications, the book's improved focus will help students succeed throughout their academic careers and well into their professions. Some notable enhancements include more refined and focused content in important topics, improved organization, updated notations, extensive explanations and intuitive exercise sets, a wider range of problem solutions, improvement in the placement, and a wider range of difficulty of exercises.
 
- 1. [Mathematical Methods For Physicists - Green's Function]()
- 2. [Mathematical Methods For Physicists - Group Theory]()
+1. [Mathematical Methods For Physicists - Green's Function]()
+2. [Mathematical Methods For Physicists - Group Theory]()
+
+ - [Physics of Condensed Matter](ftp://doc.nit.ac.ir/cee/m.gholipour/Nanoelectronics/Reading/Prasanta%20Kumar%20Misra-Physics%20of%20Condensed%20Matter-Elsevier_Academic%20Press%20c%20(2011).pdf): Prasanta K.Misra
+ > Physics of Condensed Matter is designed for a two-semester graduate course on condensed matter physics for students in physics and materials science. While the book offers fundamental ideas and topic areas of condensed matter physics, it also includes many recent topics of interest on which graduate students may choose to do further research. 
+
+1. Basic Properties of Crystals; 
+2. Phonons and Lattice Vibrations; 
+3. Free Electron Model; 
+4. Nearly Free Electron Model
+5. Band Structure Calculations
+6. Static and Transport Properties of Solids  
+7. Electron-Electron Interaction
+8. Dynamics of Bloch Electrons
+9. Semiconductors
+10. Electronics
+11. Spintronics
+12. Diamagnetism and Paramagnetism
+13. Magnetic Ordering 
+14. Superconductivity
+15. Heavy Fermions 
+16. Metallic Nanoclusters 
+17. Complex Structures
+18. Novel Materials
+
 ## Fiction
