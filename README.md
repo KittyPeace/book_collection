@@ -6,6 +6,28 @@ Collection of ebooks on various topics 📚
 ### Book Categories:
 
 ## Physics
+- [Physics of Condensed Matter](ftp://doc.nit.ac.ir/cee/m.gholipour/Nanoelectronics/Reading/Prasanta%20Kumar%20Misra-Physics%20of%20Condensed%20Matter-Elsevier_Academic%20Press%20c%20(2011).pdf): Prasanta K.Misra
+> Physics of Condensed Matter is designed for a two-semester graduate course on condensed matter physics for students in physics and materials science. While the book offers fundamental ideas and topic areas of condensed matter physics, it also includes many recent topics of interest on which graduate students may choose to do further research. 
+
+1. Basic Properties of Crystals; 
+2. Phonons and Lattice Vibrations; 
+3. Free Electron Model; 
+4. Nearly Free Electron Model
+5. Band Structure Calculations
+6. Static and Transport Properties of Solids  
+7. Electron-Electron Interaction
+8. Dynamics of Bloch Electrons
+9. Semiconductors
+10. Electronics
+11. Spintronics
+12. Diamagnetism and Paramagnetism
+13. Magnetic Ordering 
+14. Superconductivity
+15. Heavy Fermions 
+16. Metallic Nanoclusters 
+17. Complex Structures
+18. Novel Materials
+
 - [Facts and Mysteries in Elementary Particle Physics](https://github.com/valjen/book_collection/blob/master/Physics/Facts%20and%20Mysteries%20in%20Elementary%20Particle%20Physics.pdf): *Martinus Veltman*
 > This book provides a comprehensive overview of modern particle physics accessible to anyone with a true passion for wanting to know how the universe works. We are introduced to the known particles of the world we live in. An elegant explanation of quantum mechanics and relativity paves the way for an understanding of the laws that govern particle physics. These laws are put into action in the world of accelerators, colliders and detectors found at institutions such as CERN and Fermilab that are in the forefront of technical innovation. Real world and theory meet using Feynman diagrams to solve the problems of infinities and deduce the need for the Higgs boson.
 
@@ -55,27 +77,5 @@ Steemit articles related to this book:
 
 1. [Mathematical Methods For Physicists - Green's Function]()
 2. [Mathematical Methods For Physicists - Group Theory]()
-
- - [Physics of Condensed Matter](ftp://doc.nit.ac.ir/cee/m.gholipour/Nanoelectronics/Reading/Prasanta%20Kumar%20Misra-Physics%20of%20Condensed%20Matter-Elsevier_Academic%20Press%20c%20(2011).pdf): Prasanta K.Misra
- > Physics of Condensed Matter is designed for a two-semester graduate course on condensed matter physics for students in physics and materials science. While the book offers fundamental ideas and topic areas of condensed matter physics, it also includes many recent topics of interest on which graduate students may choose to do further research. 
-
-1. Basic Properties of Crystals; 
-2. Phonons and Lattice Vibrations; 
-3. Free Electron Model; 
-4. Nearly Free Electron Model
-5. Band Structure Calculations
-6. Static and Transport Properties of Solids  
-7. Electron-Electron Interaction
-8. Dynamics of Bloch Electrons
-9. Semiconductors
-10. Electronics
-11. Spintronics
-12. Diamagnetism and Paramagnetism
-13. Magnetic Ordering 
-14. Superconductivity
-15. Heavy Fermions 
-16. Metallic Nanoclusters 
-17. Complex Structures
-18. Novel Materials
 
 ## Fiction
