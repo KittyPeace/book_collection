@@ -51,8 +51,8 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Algorithms](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-the-art-of-mathematics-algorithms)
     - [A Gentle Introduction To Mathematics - Relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-relations)
 2. **Chapter 2: Logic and Quantifiers**
-    - [A Gentle Introduction To Mathematics - Predicates and Logical Connectives]()
-    - [A Gentle Introduction To Mathematics - Implications]()
+    - [A Gentle Introduction To Mathematics - Predicates and Logical Connectives](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-predicates-and-logical-connectives)
+    - [A Gentle Introduction To Mathematics - Implications](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-implications)
     - [A Gentle Introduction To Mathematics - Logical Equivalence]()
     - [A Gentle Introduction To Mathematics - Two-column Proof]()
     - [A Gentle Introduction To Mathematics - Quantified Statements]()
