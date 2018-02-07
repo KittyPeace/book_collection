@@ -54,10 +54,10 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Predicates and Logical Connectives](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-predicates-and-logical-connectives)
     - [A Gentle Introduction To Mathematics - Implications](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-implications)
     - [A Gentle Introduction To Mathematics - Logical Equivalence](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-logical-equivalence)
-    - [A Gentle Introduction To Mathematics - Two-column Proof]()
-    - [A Gentle Introduction To Mathematics - Quantified Statements]()
-    - [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms]()
-    - [A Gentle Introduction To Mathematics - Validity of Arguments and Common errors]()
+    - [A Gentle Introduction To Mathematics - Two-column Proof]
+    - [A Gentle Introduction To Mathematics - Quantified Statements]
+    - [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms]
+    - [A Gentle Introduction To Mathematics - Validity of Arguments and Common errors]
 3. **Chapter 3: Proof Techniques I**
     - Direct proofs of universal statements
     - More direct proofs
@@ -71,6 +71,29 @@ Steemit articles related to this book:
     - Set Operations
     - Venn Diagram
     - Russel's Paradox
+5. **Proof techniques II - Induction**
+    - The principle of Mathematical Induction
+    - Formulas for sums and products
+    - Other proofs using PMI
+    - Strong from of mathematical induction
+6. **Relations and Functions**
+    - Relations
+    - Properties of relations
+    - Equivalence relations
+    - Ordering relations
+    - Functions
+    - Special Functions
+7. **Proof techniques III - Combinatoris**
+    - Counting
+    - Parity and Counting Arguments
+    - The pigeonhole principle
+    - The algebra of combinations
+8. **Cardinality**
+    - Equivalent sets
+    - Examples of set equivalence
+    - Cantor's Theorem
+    - Dominance
+    - CH and GCH
 
 - [Mathematical Methods For Physicists - A Comprehensive Guide (7th Edition)]()
 >  Mathematical Methods for Physicists continues to provide all the mathematical methods that aspiring scientists and engineers are likely to encounter as students and beginning researchers. This bestselling text provides mathematical relations and their proofs essential to the study of physics and related fields. While retaining the key features of the 6th edition, the new edition provides a more careful balance of explanation, theory, and examples. Taking a problem-solving-skills approach to incorporating theorems with applications, the book's improved focus will help students succeed throughout their academic careers and well into their professions. Some notable enhancements include more refined and focused content in important topics, improved organization, updated notations, extensive explanations and intuitive exercise sets, a wider range of problem solutions, improvement in the placement, and a wider range of difficulty of exercises.
