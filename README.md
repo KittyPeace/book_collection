@@ -9,8 +9,15 @@ Collection of ebooks on various topics 📚
 - [Physics of Condensed Matter](https://github.com/valjen/book_collection/tree/master/Physics/Condensed%20Matter%20Physics): Prasanta K.Misra
 > Physics of Condensed Matter is designed for a two-semester graduate course on condensed matter physics for students in physics and materials science. While the book offers fundamental ideas and topic areas of condensed matter physics, it also includes many recent topics of interest on which graduate students may choose to do further research. 
 
-1. [Basic Properties of Crystals]() 
-2. Phonons and Lattice Vibrations; 
+1. **Basic Properties of Crystals**
+- [Crystal Stuctures]()
+- Lattice Planes and Miller Indices
+- Some Simple Crystal Structure
+- Braggs Method and Laue Method
+- Reciprocal Lattices
+- Brillouin Zones
+
+2. Phonons and Lattice Vibrations
 3. Free Electron Model; 
 4. Nearly Free Electron Model
 5. Band Structure Calculations
