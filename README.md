@@ -54,10 +54,10 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Predicates and Logical Connectives](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-predicates-and-logical-connectives)
     - [A Gentle Introduction To Mathematics - Implications](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-implications)
     - [A Gentle Introduction To Mathematics - Logical Equivalence](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-logical-equivalence)
-    - [A Gentle Introduction To Mathematics - Two-column Proof]
-    - [A Gentle Introduction To Mathematics - Quantified Statements]
-    - [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms]
-    - [A Gentle Introduction To Mathematics - Validity of Arguments and Common errors]
+    - [A Gentle Introduction To Mathematics - Two-column Proof](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-two-column-proof)
+    - [A Gentle Introduction To Mathematics - Quantified Statements]()
+    - [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms]()
+    - [A Gentle Introduction To Mathematics - Validity of Arguments and Common errors]()
 3. **Chapter 3: Proof Techniques I**
     - Direct proofs of universal statements
     - More direct proofs
