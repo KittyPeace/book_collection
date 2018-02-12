@@ -10,8 +10,8 @@ Collection of ebooks on various topics 📚
 > Physics of Condensed Matter is designed for a two-semester graduate course on condensed matter physics for students in physics and materials science. While the book offers fundamental ideas and topic areas of condensed matter physics, it also includes many recent topics of interest on which graduate students may choose to do further research. 
 
 1. **Basic Properties of Crystals**
-    - [Crystal Stuctures]()
-    - Lattice Planes and Miller Indices
+    - [Crystal Stuctures](https://steemit.com/science/@sinbad989/a-condensed-introduction-to-crystal-structure-because-it-matters)
+    - [Lattice Planes and Miller Indices]
     - Some Simple Crystal Structure
     - Braggs Method and Laue Method
     - Reciprocal Lattices
