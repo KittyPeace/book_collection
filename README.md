@@ -65,12 +65,12 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Deductive Reasoning and Argument Forms](https://steemit.com/science/@sinbad989/a-gentle-introduction-to-mathematics-deductive-reasoning-and-argument-forms)
     
 3. **Chapter 3: Proof Techniques I**
-    - Direct proofs of universal statements
-    - More direct proofs
-    - Contradiction and Contraposition
-    - Disproofs of universal statements
-    - By cases and by exhaustion
-    - Existential statements
+    - [A Gentle Introduction To Mathematics - Direct Proofs of Universal Statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-direct-proofs-of-universal-statements)
+    - [A Gentle Introduction To Mathematics - More Direct Proofs]()
+    - [A Gentle Introduction To Mathematics - Contradiction and Contraposition]()
+    - [A Gentle Introduction To Mathematics - Disproofs of universal statements]()
+    - [By cases and by exhaustion]()
+    - [Existential statements]()
 4. **Chapter 4: Sets**
     - Basic Notions of Set Theory
     - Containment
