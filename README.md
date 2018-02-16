@@ -66,11 +66,11 @@ Steemit articles related to this book:
     
 3. **Chapter 3: Proof Techniques I**
     - [A Gentle Introduction To Mathematics - Direct Proofs of Universal Statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-direct-proofs-of-universal-statements)
-    - [A Gentle Introduction To Mathematics - More Direct Proofs]()
+    - [A Gentle Introduction To Mathematics - More Direct Proofs](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-more-direct-proofs)
     - [A Gentle Introduction To Mathematics - Contradiction and Contraposition]()
     - [A Gentle Introduction To Mathematics - Disproofs of universal statements]()
-    - [By cases and by exhaustion]()
-    - [Existential statements]()
+    - [A Gentle Introduction To Mathematics - By cases and by exhaustion]()
+    - [A Gentle Introduction To Mathematics - Existential statements]()
 4. **Chapter 4: Sets**
     - Basic Notions of Set Theory
     - Containment
