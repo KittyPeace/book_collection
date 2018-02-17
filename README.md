@@ -68,7 +68,7 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Direct Proofs of Universal Statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-direct-proofs-of-universal-statements)
     - [A Gentle Introduction To Mathematics - More Direct Proofs](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-more-direct-proofs)
     - [A Gentle Introduction To Mathematics - Contradiction and Contraposition](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-contradiction-and-contraposition)
-    - [A Gentle Introduction To Mathematics - Disproofs of universal statements]()
+    - [A Gentle Introduction To Mathematics - Disproofs of universal statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-disproofs-of-universal-statements)
     - [A Gentle Introduction To Mathematics - By cases and by exhaustion]()
     - [A Gentle Introduction To Mathematics - Existential statements]()
 4. **Chapter 4: Sets**
