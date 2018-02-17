@@ -67,16 +67,16 @@ Steemit articles related to this book:
 3. **Chapter 3: Proof Techniques I**
     - [A Gentle Introduction To Mathematics - Direct Proofs of Universal Statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-direct-proofs-of-universal-statements)
     - [A Gentle Introduction To Mathematics - More Direct Proofs](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-more-direct-proofs)
-    - [A Gentle Introduction To Mathematics - Contradiction and Contraposition]()
+    - [A Gentle Introduction To Mathematics - Contradiction and Contraposition](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-contradiction-and-contraposition)
     - [A Gentle Introduction To Mathematics - Disproofs of universal statements]()
     - [A Gentle Introduction To Mathematics - By cases and by exhaustion]()
     - [A Gentle Introduction To Mathematics - Existential statements]()
 4. **Chapter 4: Sets**
-    - Basic Notions of Set Theory
-    - Containment
-    - Set Operations
-    - Venn Diagram
-    - Russel's Paradox
+    - A Gentle Introduction To Mathematics - Basic Notions of Set Theory
+    - A Gentle Introduction To Mathematics - Containment
+    - A Gentle Introduction To Mathematics - Set Operations
+    - A Gentle Introduction To Mathematics - Venn Diagram
+    - A Gentle Introduction To Mathematics - Russel's Paradox
 5. **Proof techniques II - Induction**
     - The principle of Mathematical Induction
     - Formulas for sums and products
@@ -89,7 +89,7 @@ Steemit articles related to this book:
     - Ordering relations
     - Functions
     - Special Functions
-7. **Proof techniques III - Combinatoris**
+7. **Proof techniques III - Combinatorics**
     - Counting
     - Parity and Counting Arguments
     - The pigeonhole principle
@@ -100,6 +100,10 @@ Steemit articles related to this book:
     - Cantor's Theorem
     - Dominance
     - CH and GCH
+9. **Proof techniques IV - Magic**
+    - Morley's miracle
+    - Five steps into the Void
+    - Monge's circle theorem
 
 - [Mathematical Methods For Physicists - A Comprehensive Guide (7th Edition)]()
 >  Mathematical Methods for Physicists continues to provide all the mathematical methods that aspiring scientists and engineers are likely to encounter as students and beginning researchers. This bestselling text provides mathematical relations and their proofs essential to the study of physics and related fields. While retaining the key features of the 6th edition, the new edition provides a more careful balance of explanation, theory, and examples. Taking a problem-solving-skills approach to incorporating theorems with applications, the book's improved focus will help students succeed throughout their academic careers and well into their professions. Some notable enhancements include more refined and focused content in important topics, improved organization, updated notations, extensive explanations and intuitive exercise sets, a wider range of problem solutions, improvement in the placement, and a wider range of difficulty of exercises.
