@@ -69,8 +69,8 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - More Direct Proofs](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-more-direct-proofs)
     - [A Gentle Introduction To Mathematics - Contradiction and Contraposition](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-contradiction-and-contraposition)
     - [A Gentle Introduction To Mathematics - Disproofs of universal statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-disproofs-of-universal-statements)
-    - [A Gentle Introduction To Mathematics - By cases and by exhaustion]()
-    - [A Gentle Introduction To Mathematics - Existential statements]()
+    - [A Gentle Introduction To Mathematics - By cases and by exhaustion](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-by-cases-and-by-exhaustion)
+    - [A Gentle Introduction To Mathematics - Existential statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-existential-statements)
 4. **Chapter 4: Sets**
     - A Gentle Introduction To Mathematics - Basic Notions of Set Theory
     - A Gentle Introduction To Mathematics - Containment
@@ -78,32 +78,32 @@ Steemit articles related to this book:
     - A Gentle Introduction To Mathematics - Venn Diagram
     - A Gentle Introduction To Mathematics - Russel's Paradox
 5. **Proof techniques II - Induction**
-    - The principle of Mathematical Induction
-    - Formulas for sums and products
-    - Other proofs using PMI
-    - Strong from of mathematical induction
+    - A Gentle Introduction To Mathematics - The principle of Mathematical Induction
+    - A Gentle Introduction To Mathematics - Formulas for sums and products
+    - A Gentle Introduction To Mathematics - Other proofs using PMI
+    - A Gentle Introduction To Mathematics - Strong from of mathematical induction
 6. **Relations and Functions**
-    - Relations
-    - Properties of relations
-    - Equivalence relations
-    - Ordering relations
-    - Functions
-    - Special Functions
+    - A Gentle Introduction To Mathematics - Relations
+    - A Gentle Introduction To Mathematics - Properties of relations
+    - A Gentle Introduction To Mathematics - Equivalence relations
+    - A Gentle Introduction To Mathematics - Ordering relations
+    - A Gentle Introduction To Mathematics - Functions
+    - A Gentle Introduction To Mathematics - Special Functions
 7. **Proof techniques III - Combinatorics**
-    - Counting
-    - Parity and Counting Arguments
-    - The pigeonhole principle
-    - The algebra of combinations
+    - A Gentle Introduction To Mathematics - Counting
+    - A Gentle Introduction To Mathematics - Parity and Counting Arguments
+    - A Gentle Introduction To Mathematics - The pigeonhole principle
+    - A Gentle Introduction To Mathematics - The algebra of combinations
 8. **Cardinality**
-    - Equivalent sets
-    - Examples of set equivalence
-    - Cantor's Theorem
-    - Dominance
-    - CH and GCH
+    - A Gentle Introduction To Mathematics - Equivalent sets
+    - A Gentle Introduction To Mathematics - Examples of set equivalence
+    - A Gentle Introduction To Mathematics - Cantor's Theorem
+    - A Gentle Introduction To Mathematics - Dominance
+    - A Gentle Introduction To Mathematics - CH and GCH
 9. **Proof techniques IV - Magic**
-    - Morley's miracle
-    - Five steps into the Void
-    - Monge's circle theorem
+    - A Gentle Introduction To Mathematics - Morley's miracle
+    - A Gentle Introduction To Mathematics - Five steps into the Void
+    - A Gentle Introduction To Mathematics - Monge's circle theorem
 
 - [Mathematical Methods For Physicists - A Comprehensive Guide (7th Edition)]()
 >  Mathematical Methods for Physicists continues to provide all the mathematical methods that aspiring scientists and engineers are likely to encounter as students and beginning researchers. This bestselling text provides mathematical relations and their proofs essential to the study of physics and related fields. While retaining the key features of the 6th edition, the new edition provides a more careful balance of explanation, theory, and examples. Taking a problem-solving-skills approach to incorporating theorems with applications, the book's improved focus will help students succeed throughout their academic careers and well into their professions. Some notable enhancements include more refined and focused content in important topics, improved organization, updated notations, extensive explanations and intuitive exercise sets, a wider range of problem solutions, improvement in the placement, and a wider range of difficulty of exercises.
