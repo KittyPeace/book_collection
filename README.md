@@ -72,7 +72,7 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - By cases and by exhaustion](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-by-cases-and-by-exhaustion)
     - [A Gentle Introduction To Mathematics - Existential statements](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-existential-statements)
 4. **Chapter 4: Sets**
-    - A Gentle Introduction To Mathematics - Basic Notions of Set Theory
+    - [A Gentle Introduction To Mathematics - Basic Notions of Set Theory](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-basic-notions-of-set-theory)
     - A Gentle Introduction To Mathematics - Containment
     - A Gentle Introduction To Mathematics - Set Operations
     - A Gentle Introduction To Mathematics - Venn Diagram
