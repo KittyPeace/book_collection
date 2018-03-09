@@ -41,10 +41,10 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Venn Diagram](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-venn-diagram)
     - [A Gentle Introduction To Mathematics - Russel's Paradox](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-russel-s-paradox)
 5. **Proof techniques II - Induction**
-    - A Gentle Introduction To Mathematics - The principle of Mathematical Induction
-    - A Gentle Introduction To Mathematics - Formulas for sums and products
-    - A Gentle Introduction To Mathematics - Other proofs using PMI
-    - A Gentle Introduction To Mathematics - Strong from of mathematical induction
+    - [A Gentle Introduction To Mathematics - The principle of Mathematical Induction](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-the-principle-of-mathematical-induction)
+    - [A Gentle Introduction To Mathematics - Formulas for sums and products](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-formulas-for-sums-and-products)
+    - [A Gentle Introduction To Mathematics - Other proofs using PMI]()
+    - [A Gentle Introduction To Mathematics - Strong from of mathematical induction]()
 6. **Relations and Functions**
     - A Gentle Introduction To Mathematics - Relations
     - A Gentle Introduction To Mathematics - Properties of relations
