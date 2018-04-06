@@ -43,8 +43,8 @@ Steemit articles related to this book:
 5. **Proof techniques II - Induction**
     - [A Gentle Introduction To Mathematics - The principle of Mathematical Induction](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-the-principle-of-mathematical-induction)
     - [A Gentle Introduction To Mathematics - Formulas for sums and products](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-formulas-for-sums-and-products)
-    - [A Gentle Introduction To Mathematics - Other proofs using PMI]()
-    - [A Gentle Introduction To Mathematics - Strong from of mathematical induction]()
+    - [A Gentle Introduction To Mathematics - Other proofs using PMI](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-other-proofs-using-pmi)
+    - [A Gentle Introduction To Mathematics - Strong from of mathematical induction](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-strong-from-of-mathematical-induction)
 6. **Relations and Functions**
     - [A Gentle Introduction To Mathematics - Relations](https://steemit.com/mathematics/@sinbad989/2ejj82-a-gentle-introduction-to-mathematics-relations)
     - [A Gentle Introduction To Mathematics - Properties of relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-properties-of-relations)
