@@ -46,12 +46,12 @@ Steemit articles related to this book:
     - [A Gentle Introduction To Mathematics - Other proofs using PMI]()
     - [A Gentle Introduction To Mathematics - Strong from of mathematical induction]()
 6. **Relations and Functions**
-    - A Gentle Introduction To Mathematics - Relations
-    - A Gentle Introduction To Mathematics - Properties of relations
-    - A Gentle Introduction To Mathematics - Equivalence relations
-    - A Gentle Introduction To Mathematics - Ordering relations
-    - A Gentle Introduction To Mathematics - Functions
-    - A Gentle Introduction To Mathematics - Special Functions
+    - [A Gentle Introduction To Mathematics - Relations](https://steemit.com/mathematics/@sinbad989/2ejj82-a-gentle-introduction-to-mathematics-relations)
+    - [A Gentle Introduction To Mathematics - Properties of relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-properties-of-relations)
+    - [A Gentle Introduction To Mathematics - Equivalence relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-equivalence-relations)
+    - [A Gentle Introduction To Mathematics - Ordering relations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-ordering-relations)
+    - [A Gentle Introduction To Mathematics - Functions](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-functions)
+    - [A Gentle Introduction To Mathematics - Special Functions](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-special-functions)
 7. **Proof techniques III - Combinatorics**
     - A Gentle Introduction To Mathematics - Counting
     - A Gentle Introduction To Mathematics - Parity and Counting Arguments
