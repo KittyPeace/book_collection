@@ -6,12 +6,30 @@ Collection of ebooks on various topics 📚
 ### Book Categories:
 
 ## Mathematics
-- [A Gentle Introduction to the Art of Mathematics](): *Joe Fields*
+- [A Gentle Introduction to the Art of Mathematics](https://github.com/valjen/book_collection/tree/master/Mathematics/A%20Gentle%20Introduction%20to%20the%20Art%20of%20Mathematics): *Joe Fields*
 - A First Course in Linear Algebra
 - A First Course in Complex Analysis
 - Mathematical Methods for Physicist - Comprehensive Guide
 
 ## Physics
+- A Guide to Feynman Diagrams in the Many-Body Problem
+- Statistical Field Theory
 - Condensed Matter Physics
 - Facts and Mysteries in Elementary Particle Physics
 - Magnetic Monopoles
+
+
+## Computer Science
+- Understanding Computation
+- 97 Things Every Programmer Should Know
+### Think Something Series
+  - Think Bayes 
+  - Think DSP
+  - Think OS
+  - Think Stats
+
+## Programming 
+- C++ Programming
+- C++ Programming Cookbook
+
+
