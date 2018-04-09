@@ -13,7 +13,7 @@ Collection of ebooks on various topics 📚
 
 ## Physics
 - [A Guide to Feynman Diagrams in the Many-Body Problem](https://github.com/valjen/book_collection/tree/master/Physics/A%20Guide%20to%20Feynman%20Diagrams) *Richard D. Mattuck*
-- [Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics]() *Giuseppe Mussardo*
+- [Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics](https://github.com/valjen/book_collection/tree/master/Physics/Statistical%20Field%20Theory) *Giuseppe Mussardo*
 - Condensed Matter Physics
 - Facts and Mysteries in Elementary Particle Physics
 - Magnetic Monopoles
@@ -32,9 +32,9 @@ Collection of ebooks on various topics 📚
   - Think Stats
 
 ## Programming 
+- [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/tree/master/Programming/What%20Every%20Programmers%20Should%20Know) *Shirish Padalkar*
 - C++ Programming
 - C++ Programming Cookbook
-- [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/tree/master/Programming/What%20Every%20Programmers%20Should%20Know) *Shirish Padalkar*
 
 
 
