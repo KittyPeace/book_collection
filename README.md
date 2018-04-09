@@ -24,7 +24,7 @@ Collection of ebooks on various topics 📚
 
 ## Computer Science
 - Understanding Computation
-- 97 Things Every Programmer Should Know **
+- 97 Things Every Programmer Should Know *Shirish Padalkar*
 ### Think Something Series
   - Think Bayes 
   - Think DSP

@@ -1,7 +1,6 @@
-## Physics 📚 
+## Programming 📚 
 - [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/blob/master/Mathematics/A%20Gentle%20Introduction%20to%20the%20Art%20of%20Mathematics.pdf): *Shirish Padalkar*
-> Until this book, most treatments of this topic were inaccessible to nonspecialists. A superb introduction to important areas of modern physics, it covers Feynman diagrams, quasi particles, Fermi systems at finite temperature, superconductivity, vacuum amplitude, Dyson's equation, ladder approximation, and much more. "A great delight to read." — Physics Today. 1974 edition.
-
+>pearls of wisdom for programmers collected from leading practitioners. 
 
 
 Steemit articles related to this book:
@@ -18,4 +17,4 @@ Steemit articles related to this book:
 
 
 
-<sub>This work is licensed under a Creative Commons Attribution 3</sub>
+<sub>This book is licensed under a Creative Commons Attribution 3</sub>
