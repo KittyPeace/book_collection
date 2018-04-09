@@ -12,7 +12,7 @@ Collection of ebooks on various topics 📚
 - Mathematical Methods for Physicist - Comprehensive Guide
 
 ## Physics
-- A Guide to Feynman Diagrams in the Many-Body Problem
+- [A Guide to Feynman Diagrams in the Many-Body Problem](https://github.com/valjen/book_collection/tree/master/Physics/A%20Guide%20to%20Feynman%20Diagrams) *Richard D. Mattuck*
 - Statistical Field Theory
 - Condensed Matter Physics
 - Facts and Mysteries in Elementary Particle Physics
