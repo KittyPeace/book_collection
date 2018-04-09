@@ -18,10 +18,13 @@ Collection of ebooks on various topics 📚
 - Facts and Mysteries in Elementary Particle Physics
 - Magnetic Monopoles
 
+# Machine Learning and Data Science
+- Learning Data Mining with Python: *Robert Layton*
+- Deep Learning - Methods and Applications 
 
 ## Computer Science
 - Understanding Computation
-- 97 Things Every Programmer Should Know
+- 97 Things Every Programmer Should Know **
 ### Think Something Series
   - Think Bayes 
   - Think DSP
@@ -31,5 +34,7 @@ Collection of ebooks on various topics 📚
 ## Programming 
 - C++ Programming
 - C++ Programming Cookbook
+
+
 
 

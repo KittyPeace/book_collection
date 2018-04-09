@@ -1,11 +1,4 @@
-# book_collection [@sinbad989](https://steemit.com/@sinbad989)
-Collection of ebooks on various topics 📚 
-
-**This is my digital library for books I have collected related to my steemit postings.**
-
-### Book Categories:
-
-## Mathematics
+## Mathematics 📚 
 - [A Gentle Introduction to the Art of Mathematics](https://github.com/valjen/book_collection/blob/master/Mathematics/A%20Gentle%20Introduction%20to%20the%20Art%20of%20Mathematics.pdf): *Joe Fields*
 > GIAM (a Gentle Introduction to the Art of Mathematics) is a free, open-source textbook -- the current version is 3.1. GIAM covers several topics in the foundations of mathematics (logic, sets, relations, functions and cardinality) and introduces the reader to many techniques of mathematical proof (direct, indirect, contradiction, contrapositive, mathematical induction, combinatorial proofs and magic).
 
