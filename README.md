@@ -37,4 +37,7 @@ Collection of ebooks on various topics 📚
 - C++ Programming Cookbook
 
 
+## Non-technical Books
+- [Show Your Work by **Austin Kleon**](https://github.com/valjen/book_collection/tree/master/Non-Technical)
+
 
