@@ -38,6 +38,6 @@ Collection of ebooks on various topics 📚
 
 
 # Non-technical Books
-- [Show Your Work by **Austin Kleon**](https://github.com/valjen/book_collection/tree/master/Non-Technical)
+- [Show Your Work](https://github.com/valjen/book_collection/tree/master/Non-Technical) by **Austin Kleon**
 
 
