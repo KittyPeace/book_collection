@@ -46,10 +46,10 @@ Steemit articles on this book:
     - [A Gentle Introduction To Mathematics - Functions](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-functions)
     - [A Gentle Introduction To Mathematics - Special Functions](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-special-functions)
 7. **Proof techniques III - Combinatorics**
-    - A Gentle Introduction To Mathematics - Counting
-    - A Gentle Introduction To Mathematics - Parity and Counting Arguments
-    - A Gentle Introduction To Mathematics - The pigeonhole principle
-    - A Gentle Introduction To Mathematics - The algebra of combinations
+    - [A Gentle Introduction To Mathematics - Counting](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-counting)
+    - [A Gentle Introduction To Mathematics - Parity and Counting Arguments](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-parity-and-counting-arguments)
+    - [A Gentle Introduction To Mathematics - The pigeonhole principle](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-the-pigeonhole-principle)
+    - [A Gentle Introduction To Mathematics - The algebra of combinations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-the-algebra-of-combinations)
 8. **Cardinality**
     - A Gentle Introduction To Mathematics - Equivalent sets
     - A Gentle Introduction To Mathematics - Examples of set equivalence
