@@ -32,8 +32,8 @@ Collection of ebooks on various topics 📚
   - Think Stats
 
 # Programming 
+- [The C Programming Language (ANSI C)](https://github.com/valjen/book_collection/tree/master/Programming/The%20C%20Programming%20Language)
 - [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/tree/master/Programming/What%20Every%20Programmers%20Should%20Know) *Shirish Padalkar*
-- [The C Programming Language (ANSI C)]()
 - C++ Programming
 - C++ Programming Cookbook
 
