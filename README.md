@@ -12,8 +12,8 @@ Collection of ebooks on various topics 📚
 - Mathematical Methods for Physicist - Comprehensive Guide
 
 # Physics
-- [A Guide to Feynman Diagrams in the Many-Body Problem](https://github.com/valjen/book_collection/tree/master/Physics/A%20Guide%20to%20Feynman%20Diagrams) *Richard D. Mattuck*
-- [Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics](https://github.com/valjen/book_collection/tree/master/Physics/Statistical%20Field%20Theory) *Giuseppe Mussardo*
+- [A Guide to Feynman Diagrams in the Many-Body Problem]:(https://github.com/valjen/book_collection/tree/master/Physics/A%20Guide%20to%20Feynman%20Diagrams) *Richard D. Mattuck*
+- [Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics]:(https://github.com/valjen/book_collection/tree/master/Physics/Statistical%20Field%20Theory) *Giuseppe Mussardo*
 - Condensed Matter Physics
 - Facts and Mysteries in Elementary Particle Physics
 - Magnetic Monopoles
@@ -32,13 +32,13 @@ Collection of ebooks on various topics 📚
   - Think Stats
 
 # Programming 
-- [The C Programming Language (ANSI C)](https://github.com/valjen/book_collection/tree/master/Programming/The%20C%20Programming%20Language)
-- [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/tree/master/Programming/What%20Every%20Programmers%20Should%20Know) *Shirish Padalkar*
+- [The C Programming Language (ANSI C)]: *Brian Kernighan and Dennis Ritchie*(https://github.com/valjen/book_collection/tree/master/Programming/The%20C%20Programming%20Language)
+- [97 Things Every Programmer Should Know]:(https://github.com/valjen/book_collection/tree/master/Programming/What%20Every%20Programmers%20Should%20Know) *Shirish Padalkar*
 - C++ Programming
 - C++ Programming Cookbook
 
 
 # Non-technical Books
-- [Show Your Work](https://github.com/valjen/book_collection/tree/master/Non-Technical) by **Austin Kleon**
+- [Show Your Work](https://github.com/valjen/book_collection/tree/master/Non-Technical): **Austin Kleon**
 
 
