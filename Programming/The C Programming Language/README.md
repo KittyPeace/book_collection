@@ -1,5 +1,5 @@
 ## Programming 📚 
-- [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/blob/master/Programming/The%20C%20Programming%20Language/The%20C%20Programming%20Language.pdf): *Brian Kernighan and Dennis Ritchie*
+- [The C Programming Language (ANSI C)](https://github.com/valjen/book_collection/blob/master/Programming/The%20C%20Programming%20Language/The%20C%20Programming%20Language.pdf): *Brian Kernighan and Dennis Ritchie*
 >The book was central to the development and popularization of the C programming language and is still widely read and used today. Because the book was co-authored by the original language designer, and because the first edition of the book served for many years as the de facto standard for the language, the book was regarded by many to be the authoritative reference on C.
 
 
