@@ -51,8 +51,8 @@ Steemit articles on this book:
     - [A Gentle Introduction To Mathematics - The pigeonhole principle](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-the-pigeonhole-principle)
     - [A Gentle Introduction To Mathematics - The algebra of combinations](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-the-algebra-of-combinations)
 8. **Cardinality**
-    - A Gentle Introduction To Mathematics - Equivalent sets
-    - A Gentle Introduction To Mathematics - Examples of set equivalence
+    - [A Gentle Introduction To Mathematics - Equivalent sets](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-equivalent-sets)
+    - [A Gentle Introduction To Mathematics - Examples of set equivalence](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-examples-of-set-equivalence)
     - A Gentle Introduction To Mathematics - Cantor's Theorem
     - A Gentle Introduction To Mathematics - Dominance
     - A Gentle Introduction To Mathematics - CH and GCH
