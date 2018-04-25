@@ -6,7 +6,7 @@
 
 Steemit articles related to this book:
 
-0. The Many-Body Problem for Everybody
+0. [The Many-Body Problem for Everybody](https://steemit.com/physics/@sinbad989/the-many-body-problems-for-everybody)
 1. Feynman Diagrams, or how to Solve the Many-Body Problem by means of Pictures
 2. Classical Quasi Particles and the Pinball Propagator
 3. Quantum Quasi Particles and the Quantum Pinball Propagator
