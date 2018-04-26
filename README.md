@@ -7,6 +7,7 @@ Collection of ebooks on various topics 📚
 
 # Mathematics
 - [A Gentle Introduction to the Art of Mathematics](https://github.com/valjen/book_collection/tree/master/Mathematics/A%20Gentle%20Introduction%20to%20the%20Art%20of%20Mathematics): *Joe Fields*
+- Elements of Set Theory: *Herbert B. Enderton*
 - A First Course in Linear Algebra
 - A First Course in Complex Analysis
 - Mathematical Methods for Physicist - Comprehensive Guide
