@@ -24,7 +24,7 @@ Collection of ebooks on various topics 📚
 - Deep Learning - Methods and Applications 
 
 # Computer Science
-- Algorithms by Dasgupta, Papadimitriou and Vazurani
+- [Algorithms by Dasgupta, Papadimitriou and Vazurani](https://github.com/valjen/book_collection/tree/master/Computer%20Science/Algorithms)
 - Understanding Computation
 
 ### Think Something Series
