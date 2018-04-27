@@ -34,7 +34,7 @@ Collection of ebooks on various topics 📚
   - Think Stats
 
 # Programming 
-- [Python 3 - Object Oriented Programming](https://github.com/valjen/book_collection/tree/master/Programming/Python%203%20-%20Object%20Oriented%20Programming) by Dusty Phillips****
+- [Python 3 - Object Oriented Programming](https://github.com/valjen/book_collection/tree/master/Programming/Python%203%20-%20Object%20Oriented%20Programming) by **Dusty Phillips**
 - [The C Programming Language (ANSI C)](https://github.com/valjen/book_collection/tree/master/Programming/The%20C%20Programming%20Language): *Brian Kernighan and Dennis Ritchie*
 - [97 Things Every Programmer Should Know](https://github.com/valjen/book_collection/tree/master/Programming/What%20Every%20Programmers%20Should%20Know): *Shirish Padalkar*
 - C++ Programming
