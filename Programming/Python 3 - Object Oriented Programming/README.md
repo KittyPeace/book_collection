@@ -25,14 +25,10 @@ Steemit articles related to this book:
 - **Chapter 9: Python Design Patterns 2**
 - **Chapter 10: Files and Strings**
 - **Chapter 11: Testing Object-oriented programs**
-- **Chapter 12: Common Python 3 Libraries**
+- **Chapter 12: Common Python 3 Libraries
 
 
 
 
-*suggested by [@sinbad989](https://steemit.com/@sinbad989)*
 
-
-
-<sub>This book is licensed under a Creative Commons Attribution 3</sub>
 
