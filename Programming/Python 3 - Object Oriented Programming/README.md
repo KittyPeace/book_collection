@@ -1,6 +1,6 @@
 ## Programming 📚 
-- [Python 3 - Object Oriented Programming](https://github.com/valjen/book_collection/blob/master/Programming/Python%203%20-%20Object%20Oriented%20Programming/Python%203%20Object%20Oriented%20Programming%20%5BPhillips%202010-07-26%5D.pdf): *Brian Kernighan and Dennis Ritchie*
->f you feel it’s time you learned object-oriented programming techniques, this is the perfect book for you. Clearly written with practical exercises, it’s the painless way to learn how to harness the power of OOP in Python.
+- [Python 3 - Object Oriented Programming](https://github.com/valjen/book_collection/blob/master/Programming/Python%203%20-%20Object%20Oriented%20Programming/Python%203%20Object%20Oriented%20Programming%20%5BPhillips%202010-07-26%5D.pdf): *Dusty Phillips*
+>If you feel it’s time you learned object-oriented programming techniques, this is the perfect book for you. Clearly written with practical exercises, it’s the painless way to learn how to harness the power of OOP in Python.
 
 Steemit articles related to this book:
 
