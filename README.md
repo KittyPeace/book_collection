@@ -20,10 +20,11 @@ Collection of ebooks on various topics 📚
 - Magnetic Monopoles
 
 # Machine Learning and Data Science
-- Learning Data Mining with Python: *Robert Layton*
+- [Learning Data Mining with Python:](https://github.com/valjen/book_collection/tree/master/Machine%20Learning%20and%20Data%20Science/Learning%20Data%20Mining%20with%20Python) *Robert Layton*
 - Deep Learning - Methods and Applications 
 
 # Computer Science
+- Algorithms by Dasgupta, Papadimitriou and Vazurani
 - Understanding Computation
 
 ### Think Something Series
