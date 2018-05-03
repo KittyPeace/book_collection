@@ -1,6 +1,6 @@
 ## Mathematics 📚 
-- [A Gentle Introduction to the Art of Mathematics](https://github.com/valjen/book_collection/blob/master/Mathematics/A%20Gentle%20Introduction%20to%20the%20Art%20of%20Mathematics.pdf): *Joe Fields*
-> GIAM (a Gentle Introduction to the Art of Mathematics) is a free, open-source textbook -- the current version is 3.1. GIAM covers several topics in the foundations of mathematics (logic, sets, relations, functions and cardinality) and introduces the reader to many techniques of mathematical proof (direct, indirect, contradiction, contrapositive, mathematical induction, combinatorial proofs and magic).
+- [Elements of Set Theory](https://github.com/valjen/book_collection/blob/master/Mathematics/Elements%20of%20Set%20Theory/Elements%20of%20Set%20Theory.pdf): *Herbert B. Enderton*
+> This is an introductory undergraduate textbook in set theory. In mathematics these days, essentially everything is a set. Some knowledge of set theory is necessary part of the background everyone needs for further study of mathematics. It is also possible to study set theory for its own interest--it is a subject with intruiging results about simple objects. This book starts with material that nobody can do without. There is no end to what can be learned of set theory, but here is a beginning.
 
 *suggested by [@sinbad989](https://steemit.com/@sinbad989)*
 
@@ -10,7 +10,7 @@ Steemit articles on this book:
 
 - Chapter 1: Introduction
 
-  - Elements of Set Theory: Baby set Theory
+  - [Elements of Set Theory: Baby set Theory](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-baby-set-theory)
   - Elements of Set Theory: Sets - An Informal View
   - Elements of Set Theory: Classes
   - Elements of Set Theory: Axiomatic Method
