@@ -5,17 +5,17 @@
 Steemit articles related to this book:
 
 - **Chapter 1: Object-oriented Design**
-  - Object-oriented?
-  - Objects and Classes
-  - Specifying attributes and behaviors
-  - Hiding details and creating the public interface
-  - Composition and Inheritance
-  - Case Study
+  - [Object Oriented Programming: Object-Oriented ?](https://steemit.com/programming/@sinbad989/object-oriented-programming-object-oriented)
+  - Object Oriented Programming: Objects and Classes
+  - Object Oriented Programming: Specifying attributes and behaviors
+  - Object Oriented Programming: Hiding details and creating the public interface
+  - Object Oriented Programming: Composition and Inheritance
+  - Object Oriented Programming: Case Study
 - **Chapter 2: Objects in Python**
-  - Creating Python Classes
-  - Modules and Packages
-  - Who can access my data? 
-  - Case Study
+  - Object Oriented Programming: Creating Python Classes
+  - Object Oriented Programming: Modules and Packages
+  - Object Oriented Programming: Who can access my data? 
+  - Object Oriented Programming: Case Study
 - **Chapter 3: When objects are alike**
 - **Chapter 4: Expecting the Unexpected**
 - **Chapter 5: When to  Use Object-Oriented Programming**
