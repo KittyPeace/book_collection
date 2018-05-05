@@ -11,7 +11,7 @@ Steemit articles on this book:
 - Chapter 1: Introduction
 
   - [Elements of Set Theory: Baby set Theory](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-baby-set-theory)
-  - Elements of Set Theory: Sets - An Informal View
+  - [Elements of Set Theory: Sets - An Informal View](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-sets-an-informal-view)
   - Elements of Set Theory: Classes
   - Elements of Set Theory: Axiomatic Method
   - Elements of Set Theory: Notation
