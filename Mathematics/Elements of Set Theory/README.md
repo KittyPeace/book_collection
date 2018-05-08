@@ -14,11 +14,11 @@ Steemit articles on this book:
   - [Elements of Set Theory: Sets - An Informal View](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-sets-an-informal-view)
   - [Elements of Set Theory: Classes](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-classes)
   - [Elements of Set Theory: Axiomatic Method](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-axiomatic-method)
-  - Elements of Set Theory: Notation
-  - Elements of Set Theory: Historical Notes
+  - [Elements of Set Theory: Notation](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-notation)
+  - [Elements of Set Theory: Historical Notes](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-historical-notes)
 
 - Chapter 2: Axioms and Operations
-  - Elements of Set Theory: Axioms
+  - [Elements of Set Theory: Axioms](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-axioms)
   - Elements of Set Theory: Arbitrary Unions and Intersections
   - Elements of Set Theory: Algebra of Sets
   - Elements of Set Theory: Epilogue
