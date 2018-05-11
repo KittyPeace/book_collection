@@ -19,7 +19,7 @@ Steemit articles on this book:
 
 - Chapter 2: Axioms and Operations
   - [Elements of Set Theory: Axioms](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-axioms)
-  - Elements of Set Theory: Arbitrary Unions and Intersections
+  - [Elements of Set Theory: Arbitrary Unions and Intersections](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-arbitrary-unions-and-intersections)
   - Elements of Set Theory: Algebra of Sets
   - Elements of Set Theory: Epilogue
 
