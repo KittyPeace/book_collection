@@ -20,12 +20,12 @@ Steemit articles on this book:
 - Chapter 2: Axioms and Operations
   - [Elements of Set Theory: Axioms](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-axioms)
   - [Elements of Set Theory: Arbitrary Unions and Intersections](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-arbitrary-unions-and-intersections)
-  - Elements of Set Theory: Algebra of Sets
-  - Elements of Set Theory: Epilogue
+  - [Elements of Set Theory: Algebra of Sets](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-algebra-of-sets)
+ 
 
 - Chapter 3: Relations and Functions
-  - Elements of Set Theory: Ordered Pairs
-  - Elements of Set Theory: Relations
+  - [Elements of Set Theory: Ordered Pairs](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-ordered-pairs)
+  - [Elements of Set Theory: Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-relations)
   - Elements of Set Theory: n-Ary Relations
   - Elements of Set Theory: Functions
   - Elements of Set Theory: Infinite Cartesian Products
