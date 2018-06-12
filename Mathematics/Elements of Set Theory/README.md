@@ -26,11 +26,11 @@ Steemit articles on this book:
 - Chapter 3: Relations and Functions
   - [Elements of Set Theory: Ordered Pairs](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-ordered-pairs)
   - [Elements of Set Theory: Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-relations)
-  - Elements of Set Theory: n-Ary Relations
-  - Elements of Set Theory: Functions
-  - Elements of Set Theory: Infinite Cartesian Products
-  - Elements of Set Theory: Equivalence Relations
-  - Elements of Set Theory: Ordering Relations
+  - [Elements of Set Theory: n-Ary Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-n-ary-relations)
+  - [Elements of Set Theory: Functions](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-functions)
+  - [Elements of Set Theory: Infinite Cartesian Products](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-infinite-cartesian-products)
+  - [Elements of Set Theory: Equivalence Relations]()
+  - [Elements of Set Theory: Ordering Relations]()
 
 - Chapter 4: Natural Numbers
   - Elements of Set Theory: Inductive Sets
