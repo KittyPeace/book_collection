@@ -29,8 +29,8 @@ Steemit articles on this book:
   - [Elements of Set Theory: n-Ary Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-n-ary-relations)
   - [Elements of Set Theory: Functions](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-functions)
   - [Elements of Set Theory: Infinite Cartesian Products](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-infinite-cartesian-products)
-  - [Elements of Set Theory: Equivalence Relations]()
-  - [Elements of Set Theory: Ordering Relations]()
+  - [Elements of Set Theory: Equivalence Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-equivalence-relations)
+  - [Elements of Set Theory: Ordering Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-ordering-relations)
 
 - Chapter 4: Natural Numbers
   - Elements of Set Theory: Inductive Sets
