@@ -55,7 +55,7 @@ Steemit articles on this book:
     - [A Gentle Introduction To Mathematics - Examples of set equivalence](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-examples-of-set-equivalence)
     - [A Gentle Introduction To Mathematics - Cantor's Theorem](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-cantor-s-theorem)
     - [A Gentle Introduction To Mathematics - Dominance](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-dominance)
-    - [A Gentle Introduction To Mathematics - CH and GCH]()
+    - [A Gentle Introduction To Mathematics - CH and GCH](https://steemit.com/mathematics/@sinbad989/a-gentle-introduction-to-mathematics-continuum-hypothesis-and-generalized-continuum-hypothesis)
 9. **Proof techniques IV - Magic**
     - A Gentle Introduction To Mathematics - Morley's miracle
     - A Gentle Introduction To Mathematics - Five steps into the Void
