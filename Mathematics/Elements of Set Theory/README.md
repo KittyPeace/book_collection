@@ -33,8 +33,8 @@ Steemit articles on this book:
   - [Elements of Set Theory: Ordering Relations](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-ordering-relations)
 
 - Chapter 4: Natural Numbers
-  - Elements of Set Theory: Inductive Sets
-  - Elements of Set Theory: Peano's Postulates
+  - [Elements of Set Theory: Inductive Sets](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-inductive-sets)
+  - [Elements of Set Theory: Peano's Postulates](https://steemit.com/mathematics/@sinbad989/elements-of-set-theory-peano-s-postulates)
   - Elements of Set Theory: Recursion on $\omega$
   - Elements of Set Theory: Arithmetic
   - Elements of Set Theory: Ordering on $\omega$ 
